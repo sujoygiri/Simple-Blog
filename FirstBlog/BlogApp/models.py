@@ -2,9 +2,8 @@ from django.db import models
 from django.utils import timezone
 from django.urls import reverse
 # Create your models here.
-class SuperUser(models.Model):
-
-    pass
+# class SuperUser(models.Model):
+#     pass
 
 class BlogPost(models.Model):
 
