@@ -87,23 +87,3 @@ def comment_delete(request,pk):
     return redirect('post_detail',post_pk)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
